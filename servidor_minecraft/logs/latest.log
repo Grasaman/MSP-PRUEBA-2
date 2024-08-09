@@ -1,0 +1,186 @@
+[09Aug2024 14:56:56.591] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[09Aug2024 14:56:56.594] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.3 by Microsoft; OS Linux arch amd64 version 6.5.0-1022-azure
+[09Aug2024 14:56:57.449] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09Aug2024 14:56:57.499] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MSP-PRUEBA-2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09Aug2024 14:56:57.762] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-PRUEBA-2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar is missing mods.toml file
+[09Aug2024 14:56:57.763] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-PRUEBA-2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Aug2024 14:56:57.765] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-PRUEBA-2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Aug2024 14:56:57.766] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MSP-PRUEBA-2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar is missing mods.toml file
+[09Aug2024 14:56:57.891] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[09Aug2024 14:56:59.973] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Aug2024 14:57:00.064] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[09Aug2024 14:57:00.121] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Aug2024 14:57:00.124] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Aug2024 14:57:00.127] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Aug2024 14:57:00.128] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Aug2024 14:57:00.159] [main/INFO] [Puzzles Lib/]: Loading 42 mods:
+	- alexsmobs 1.22.8
+	- appleskin 2.5.1+mc1.20.1
+	- arthropocolypse 1.0.6
+	- betterdungeons 1.20-Forge-4.0.4
+	- bettermineshafts 1.20-Forge-4.0.4
+	- blocky_siege 6.1.92
+	- cataclysm 1.0
+	- citadel 2.5.6
+	- corgilib 4.0.1.3
+	- dungeoncrawl 2.3.14
+	- dungeons_plus 1.5.0
+	- eeeabsmobs 1.20.1-0.94
+	- enhancedcelestials 5.0.0.4
+	- explorify 1.6.1
+	- forge 47.2.0
+	- geckolib 4.4.7
+	- graveyard 3.1
+	- grimoireofgaia 4.0.0-alpha.10
+	- iceandfire 2.1.13-1.20.1-beta-4
+	- illagerinvasion 8.0.5
+	- infernalmobs 1.20.1.3
+	- inventoryhud 3.4.24
+	- jade 11.9.4+forge
+	- jei 15.10.0.34
+	- jeresources 1.4.0.247
+	- jet_and_elias_armors 1.0.0
+	- l_g_c 0.7
+	- lionfishapi 1.9
+	- minecraft 1.20.1
+	- mowziesmobs 1.6.4
+	- mutantmonsters 8.0.7
+	- puzzleslib 8.1.21
+		\-- puzzlesaccessapi 8.0.7
+	- rightclickharvest 3.2.0+1.20.1-forge
+	- spartanshields 3.1.1
+	- stalwart_dungeons 1.2.8
+	- structure_gel 2.16.2
+	- tectonic 2.3.5a
+	- xaerominimap 24.2.0
+	- xaeroworldmap 1.38.8
+	- yungsapi 1.20-Forge-4.0.5
+	- yungsextras 1.20-Forge-4.0.3
+[09Aug2024 14:57:07.861] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[09Aug2024 14:57:08.122] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[09Aug2024 14:57:08.242] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[09Aug2024 14:57:08.645] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[09Aug2024 14:57:08.695] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.14...
+[09Aug2024 14:57:08.946] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[09Aug2024 14:57:09.043] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.0, for MC 1.20.1 with MCP 20230612.114412
+[09Aug2024 14:57:09.043] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.0 Initialized
+[09Aug2024 14:57:11.042] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[09Aug2024 14:57:11.052] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[09Aug2024 14:57:11.053] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[09Aug2024 14:57:11.054] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[09Aug2024 14:57:11.191] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[09Aug2024 14:57:11.192] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[09Aug2024 14:57:11.193] [Thread-1/INFO] [Puzzles Lib/]: Reloading common config for mutantmonsters
+[09Aug2024 14:57:11.214] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[09Aug2024 14:57:11.215] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[09Aug2024 14:57:11.219] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[09Aug2024 14:57:11.330] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[09Aug2024 14:57:11.335] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[09Aug2024 14:57:11.362] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[09Aug2024 14:57:11.396] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[09Aug2024 14:57:11.404] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[09Aug2024 14:57:11.421] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[09Aug2024 14:57:11.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[09Aug2024 14:57:11.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[09Aug2024 14:57:11.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Starting version check at http://changelogs.moddinglegacy.com/dungeons-plus.json
+[09Aug2024 14:57:11.877] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[09Aug2024 14:57:11.878] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[09Aug2024 14:57:11.879] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[09Aug2024 14:57:11.879] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[09Aug2024 14:57:11.886] [modloading-worker-0/INFO] [com.eeeab.eeeabsmobs.EEEABMobs/]: Registering custom criteria trigger...
+[09Aug2024 14:57:11.938] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[09Aug2024 14:57:11.960] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[09Aug2024 14:57:11.965] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[09Aug2024 14:57:12.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_plus] Found status: BETA Current: 1.5.0 Target: null
+[09Aug2024 14:57:12.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[09Aug2024 14:57:12.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.5 Target: null
+[09Aug2024 14:57:12.163] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[09Aug2024 14:57:12.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.24 Target: null
+[09Aug2024 14:57:12.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[09Aug2024 14:57:12.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.21 Target: null
+[09Aug2024 14:57:12.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[09Aug2024 14:57:12.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[09Aug2024 14:57:12.197] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Aug2024 14:57:12.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.0 Target: 47.3.0
+[09Aug2024 14:57:12.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[09Aug2024 14:57:12.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[09Aug2024 14:57:13.899] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Aug2024 14:57:15.030] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP-PRUEBA-2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/assets/.mcassetsroot' uses unexpected schema
+[09Aug2024 14:57:15.031] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MSP-PRUEBA-2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23179!/data/.mcassetsroot' uses unexpected schema
+[09Aug2024 14:57:17.151] [main/INFO] [com.github.L_Ender.cataclysm.Cataclysm/]: Adding datapack listener altar_of_amethyst_recipes
+[09Aug2024 14:57:17.153] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[09Aug2024 14:57:17.296] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:desert_pyramid (from arthropocolypse-1.0.6.jar)] as it is missing following references: minecraft:desert_pyramid (from arthropocolypse-1.0.6.jar)
+[09Aug2024 14:57:17.312] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [cataclysm:ancient_remnant (from L_Enders_Cataclysm-1.39 -1.20.1.jar)] as it is missing following references: cataclysm:ancient_remnant (from L_Enders_Cataclysm-1.39 -1.20.1.jar)
+[09Aug2024 14:57:17.888] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
+[09Aug2024 14:57:17.930] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[09Aug2024 14:57:17.954] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[09Aug2024 14:57:17.966] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[09Aug2024 14:57:18.006] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[09Aug2024 14:57:18.015] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[09Aug2024 14:57:18.048] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2015 advancements
+[09Aug2024 14:57:18.052] [main/INFO] [Dungeon Crawl/]: Loading data...
+[09Aug2024 14:57:18.366] [main/INFO] [Dungeon Crawl/]: Done.
+[09Aug2024 14:57:18.394] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters
+[09Aug2024 14:57:19.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09Aug2024 14:57:19.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Aug2024 14:57:19.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Aug2024 14:57:19.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Aug2024 14:57:19.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Aug2024 14:57:19.763] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Aug2024 14:57:19.845] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Aug2024 14:57:19.845] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Aug2024 14:57:19.846] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Aug2024 14:57:19.846] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Aug2024 14:57:19.870] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
+[09Aug2024 14:57:19.871] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[09Aug2024 14:57:19.872] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for mutantmonsters
+[09Aug2024 14:57:19.873] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[09Aug2024 14:57:19.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Aug2024 14:57:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Aug2024 14:57:52.307] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.339] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.355] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.355] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.356] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.357] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.357] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.359] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.359] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.360] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.361] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Aug2024 14:57:52.815] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[09Aug2024 14:57:53.315] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[09Aug2024 14:57:53.351] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6537 ms
+[09Aug2024 14:57:53.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (33.491s)! For help, type "help"
+[09Aug2024 14:57:53.396] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Aug2024 14:57:53.400] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[09Aug2024 14:57:53.400] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[09Aug2024 14:57:53.415] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[09Aug2024 14:57:53.416] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[09Aug2024 14:57:53.416] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[09Aug2024 14:57:53.417] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[09Aug2024 14:57:53.417] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/MSP-PRUEBA-2/servidor_minecraft/./config/infernalmobs.cfg
+[09Aug2024 14:58:10.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.19.95.154:43287] logged in with entity id 191 at (25.111469598860847, 115.0, 7.441267705301666)
+[09Aug2024 14:58:10.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[09Aug2024 14:58:10.226] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[09Aug2024 14:58:10.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHummingbird['Hummingbird'/220, l='ServerLevel[world]', x=189.50, y=163.00, z=-19.78]
+[09Aug2024 14:58:10.864] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHummingbird['Hummingbird'/221, l='ServerLevel[world]', x=180.18, y=163.51, z=14.54]
+[09Aug2024 14:59:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> s
+[09Aug2024 15:00:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Stone Age]
+[09Aug2024 15:01:16.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Getting an Upgrade]
+[09Aug2024 15:01:45.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[09Aug2024 15:01:45.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[09Aug2024 15:01:48.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Aug2024 15:01:49.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Aug2024 15:01:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Aug2024 15:01:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Aug2024 15:01:49.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Aug2024 15:02:05.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Aug2024 15:02:05.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[09Aug2024 15:02:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Aug2024 15:02:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Aug2024 15:02:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Aug2024 15:02:05.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[09Aug2024 15:02:05.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Aug2024 15:02:05.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
